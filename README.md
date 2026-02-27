@@ -69,10 +69,9 @@ sh ./bash/dpcore_cdc.sh
 If you find DPCore useful in your research, please consider citing our paper:
 ```bibtex
 @inproceedings{zhang2025dpcore,
-  title={{DPC}ore: Dynamic Prompt Coreset for Continual Test-Time Adaptation},
-  author={Yunbei Zhang and Akshay Mehra and Shuaicheng Niu and Jihun Hamm},
-  booktitle={ICML},
-  year={2025}
+  title={DPCore: Dynamic Prompt Coreset for Continual Test-Time Adaptation},
+  author={Zhang, Yunbei and Mehra, Akshay and Niu, Shuaicheng and Hamm, Jihun},
+  booktitle={Forty-second International Conference on Machine Learning}
 }
 ```
 
