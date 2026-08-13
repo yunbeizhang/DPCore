@@ -1,3 +1,5 @@
+
+
 # DPCore: Dynamic Prompt Coreset for Continual Test-Time Adaptation
 
 [![ArXiv](https://img.shields.io/badge/arXiv-2406.10737-b31b1b.svg)](https://arxiv.org/abs/2406.10737)
@@ -51,6 +53,9 @@ conda activate dpcore
 ## 🚀 Running Experiments on ImageNet-C
 Navigate to the imagenet directory and set your data path. Then, you can run the experiments for different settings:
 ```bash
+# Download the ImageNet-C dataset (run from repository root)
+sh imagenet/data/ImageNet-C/download.sh
+
 cd imagenet
 
 # Set the path to your ImageNet-C dataset
